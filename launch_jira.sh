@@ -5,8 +5,8 @@ echo "🎫 Iniciando Jira MCP..." >&2
 
 # Configurar variables de entorno para Jira
 export JIRA_URL="https://jiracloud-coopeuch.atlassian.net/"
-export JIRA_EMAIL="cfigueroa.externo@coopeuch.cl"
-export JIRA_API_TOKEN="ATATT3xFfGF0ugs54O824RcN-kGOcaOEN1Dj6zoY8MoowiCUrjNLYwcWWSWwg2l7PP3sgdGUWsSGLxqzTbBg497PQmCeIiVcoz86NWxf2ixgbmrvs9MbVoHPK-EKiBaPCx-jsIxo3JlY7wcPWg-gLDHLavkaoBVwjtEoLnsxxjQAIfG-Wy7XvBI=F3C4A22F"
+export JIRA_EMAIL=""
+export JIRA_API_TOKEN=""
 
 # Encontrar uv
 UV_LOCATIONS=(
