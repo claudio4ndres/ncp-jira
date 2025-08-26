@@ -4,7 +4,7 @@
 echo "🎫 Iniciando Jira MCP..." >&2
 
 # Configurar variables de entorno para Jira
-export JIRA_URL="https://jiracloud-coopeuch.atlassian.net/"
+export JIRA_URL=""
 export JIRA_EMAIL=""
 export JIRA_API_TOKEN=""
 
